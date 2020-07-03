@@ -1,6 +1,6 @@
 # Model-based deep learning PET image reconstruction using FBSEM
 
-## Paper
+## Reference
 https://doi.org/10.1109/TRPMS.2020.3004408
 
 <p align="center">
@@ -15,4 +15,4 @@ conda install numpy scipy matplotlib
 conda install pytorch https://pytorch.org/
 
 ## run a test
-Check out the jupyter notbooks
+Check out the jupyter notebooks
